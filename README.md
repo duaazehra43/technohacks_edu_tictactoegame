@@ -8,7 +8,7 @@ Tic Tac Toe is a two-player game where players take turns marking spaces on a 3x
 
 Features:
 
-Graphical user interface using Swing.
-Player X marks are displayed in blue, and player O marks are displayed in red.
-Keeps track of the scores for both players.
-Displays winner or draw messages.
+1. Graphical user interface using Swing.
+2. Player X marks are displayed in blue, and player O marks are displayed in red.
+3. Keeps track of the scores for both players.
+4. Displays winner or draw messages.
